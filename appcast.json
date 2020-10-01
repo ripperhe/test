@@ -3,13 +3,13 @@
     "versions": [
         {
             "version": "0.2.0",
-            "description": "修复xxxx",
+            "desc": "修复xxxx",
             "sha256": "caa08113931f090632a928d1b3401c9bd51ffc1b9e14d235c3e4935be61faeab",
             "url": "https://raw.githubusercontent.com/ripperhe/test/master/test.bobplugin"
         },
         {
             "version": "0.1.0",
-            "description": "初始版本",
+            "desc": "初始版本",
             "sha256": "xxxxx",
             "url": "https://xxx1"
         }
