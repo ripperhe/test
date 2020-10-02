@@ -3,8 +3,8 @@
     "versions": [
         {
             "version": "0.2.0",
-            "desc": "修复xxxx",
-            "sha256": "caa08113931f090632a928d1b3401c9bd51ffc1b9e14d235c3e4935be61faeab",
+            "desc": "修复沈小妹是傻逼",
+            "sha256": "5ec845ee2b60ac931ecac6f56c6a74ee16928ea4a8a4c98e2e85f09316b5ac1e",
             "url": "https://raw.githubusercontent.com/ripperhe/test/master/test.bobplugin"
         },
         {
