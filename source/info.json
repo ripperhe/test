@@ -1,0 +1,35 @@
+{
+    "identifier": "com.ripperhe.translate.test",
+    "version": "0.2.0",
+    "category": "translate",
+    "name": "测试插件",
+    "summary": "这是一个用于测试的插件。",
+    "icon": "001",
+    "author": "ripperhe",
+    "homepage": "https://github.com/ripperhe",
+    "appcast": "https://raw.githubusercontent.com/ripperhe/test/master/appcast.json",
+    "minBobVersion": "0.5.0",
+    "options": [
+        {
+            "identifier": "option1",
+            "type": "text",
+            "title": "测试输入框 0.2.0"
+        },
+        {
+            "identifier": "option2",
+            "type": "menu",
+            "title": "测试菜单",
+            "defaultValue": "1",
+            "menuValues": [
+                {
+                    "title": "菜单1",
+                    "value": "1"
+                },
+                {
+                    "title": "菜单2",
+                    "value": "2"
+                }
+            ]
+        }
+    ]
+}

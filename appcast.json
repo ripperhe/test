@@ -4,14 +4,16 @@
         {
             "version": "0.2.0",
             "desc": "修复沈小妹是傻逼",
-            "sha256": "5ec845ee2b60ac931ecac6f56c6a74ee16928ea4a8a4c98e2e85f09316b5ac1e",
-            "url": "https://raw.githubusercontent.com/ripperhe/test/master/test.bobplugin"
+            "sha256": "00744ca8b8d84713425b7fc2073ca498aa7633faac537a1c1fa80d1264d3fc03",
+            "url": "https://raw.githubusercontent.com/ripperhe/test/master/bobplugin/test_0.2.0.bobplugin",
+            "minBobVersion": "0.5.0"
         },
         {
             "version": "0.1.0",
             "desc": "初始版本",
-            "sha256": "xxxxx",
-            "url": "https://xxx1"
+            "sha256": "5ec845ee2b60ac931ecac6f56c6a74ee16928ea4a8a4c98e2e85f09316b5ac1e",
+            "url": "https://raw.githubusercontent.com/ripperhe/test/master/bobplugin/test_0.1.0.bobplugin",
+            "minBobVersion": "0.5.0"
         }
     ]
 }
